@@ -1,3 +1,9 @@
+Below is a document that Claude has produced around what it thinks is true about IFF files. I had to delete a lot of assumptions it had made that were really obviously false.
+
+Use this to assist with identifying chunk structures and how they might refer to eachother.
+
+===
+
 # IFF Format — Complete Reference
 
 > Sources: `notes/iff.md` (wiki), `notes/iff_working.md` (real-file findings),
